@@ -1,0 +1,55 @@
+li {
+    color: whitesmoke;
+    font-size  : 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    font-style: bold;
+}
+
+.header {
+    background-image: url('images/about_us.webp'); /* Replace with the actual path to your image */
+    background-size: cover; /* Ensures the image covers the entire header */
+    background-position: center; /* Centers the image */
+    color: white; /* Ensures the text is readable */
+    padding: 20px; /* Adds some padding around the text */
+    
+    
+    height: 450px; /* Sets the height of the header */
+    width: 100%; /* Makes the header span the entire width of the page */
+}
+
+h1,h2,h3,h4,h5,h6 {
+    /* background-color: #4c82f6; */
+    font-family: 'Courier New', Courier, monospace;
+    /* text-align: center; */
+    padding: 10px;
+    margin: 10px;
+    font-style: bold;
+}
+
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+div{
+    
+    font-size: 18px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    /* border: 0cap; */
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
+
+
